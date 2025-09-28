@@ -1,0 +1,5 @@
+# Raspberry Pi Emergency Display Requirements
+pygame==2.5.2
+RPi.GPIO==0.7.1
+requests==2.31.0
+cryptography==41.0.7
