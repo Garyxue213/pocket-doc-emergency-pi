@@ -13,7 +13,7 @@ from typing import Dict, Optional
 
 # Configuration for your specific hardware
 FIREBASE_PROJECT_ID = "heat-2cc8c"
-FIREBASE_API_KEY = "your_firebase_api_key_here"
+FIREBASE_API_KEY = "AIzaSyCVtFLAmaOUdojGu8yyMy0H-KtW1ugLoag"
 
 # Hosyond 3.5" 480x320 Display Configuration
 SCREEN_WIDTH = 480
